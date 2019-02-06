@@ -7,8 +7,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
 
 /**
  *
- * @author test
- */
+ * @author mjn */
 public class Student {
 
     private int ID;
